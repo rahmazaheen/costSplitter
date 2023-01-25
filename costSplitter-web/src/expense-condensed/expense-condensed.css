@@ -1,0 +1,14 @@
+.btn-people{
+    border-radius: 30px;
+}
+
+.expense-condensed{
+    padding-inline-start: 0px;
+    padding: 20px;
+    
+}
+
+.list-group-item{
+    background-color: #FCFCFC;
+    color: #5C5E5B;
+}

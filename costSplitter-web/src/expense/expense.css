@@ -1,0 +1,86 @@
+.container-fluid{
+    display: block;
+    margin:auto;
+
+}
+
+.add-expense{
+   padding-inline-start: 20px;
+}
+
+.expense-condensed{
+    text-align: left;
+    font-size: 18px;;
+}
+
+.modal-header{
+    color: #5C5E5B;
+}
+
+.btn-add-expense{
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    /* align-content: left; */
+    color: white;
+}
+
+.btn{
+    border-radius: 30px;
+}
+
+.btn-primary{
+    background-color:#5E96C3;
+    border-color:#5E96C3;
+}
+
+.btn-outline-primary{
+    border-color: rgb(59, 128, 232);
+}
+
+.btn-primary:hover{
+    background-color: #307dbc;
+    border-color: #307dbc;
+}
+
+.btn-outline-primary:hover{
+    background-color: #5E96C3;
+    border-color: #5E96C3;
+}
+
+.btn-danger{
+    background-color: #F47174;
+    border-color: #F47174;
+}
+
+.btn-danger:hover{
+    background-color: #F47174;
+    border-color: #F47174;
+}
+
+.btn-outline-danger:hover{
+    background-color: #F47174;
+    border-color: #F47174;
+}
+
+.btn-success{
+    background-color:#7CB68E;
+    border-color: #7CB68E;
+}
+
+.btn-success:hover{
+    background-color: #41995d;
+    border-color: #41995d;
+}
+
+.btn-warning{
+    background-color: #F2E349;
+    border-color: #F2E349;
+    color: #5C5E5B;
+}
+
+.btn-warning:hover{
+    background-color: #F2E349;
+    border-color: #F2E349;
+    color: #5C5E5B;
+}
